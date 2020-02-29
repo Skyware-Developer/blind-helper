@@ -6,8 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
-# trained files
+# trained files and media
 *.h5
+*.jpg
+*.jpeg
+*.mp4
 
 # Distribution / packaging
 .Python
